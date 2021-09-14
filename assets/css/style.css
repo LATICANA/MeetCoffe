@@ -1,0 +1,172 @@
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-weight: 800em;
+  font-size: 3.50em;
+  margin-bottom: 0.25;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.25em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+
+#ubicacion h2 {
+  margin: 1em auto;
+}
+
+.sweet-brown h3, .sweet-brown h5 {
+  margin-bottom: 0.5em;
+}
+
+#evento h2 {
+  margin-bottom: 1em
+}
+
+#evento h3 {
+  margin: 1em auto;
+}
+
+.subtitulo, h4, h5 {
+  font-weight: 400;
+}
+
+.oscuro {
+  background: #000f08;
+  color: #ffffff;
+  width: 100%;
+  height: auto;
+
+
+}
+
+.oscuro a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.sweet-brown {
+  text-align: left;
+  background: #a4452c;
+  color: #ffffff;
+  padding: 3.125rem;
+  white-space: nowrap;
+}
+
+.hero-section {
+  text-align: right;
+  background-image: url('../img/bg-hero.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 6.25rem 3.125rem;
+}
+
+section, footer {
+  margin-top: 4.6rem;
+}
+
+footer {
+  height: 99px;
+}
+
+.charla-texto, .evento {
+  display: inline-block;
+  white-space: normal;
+}
+
+.centrado {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.charla-speaker {
+  width: 25%;
+  vertical-align: middle;
+}
+
+.charla-texto {
+  width: 72.5%;
+  vertical-align: middle;
+  margin-left: 2.5%;
+  white-space: normal;
+}
+
+.evento {
+  width: 30%
+}
+
+.evento img {
+  width: 75%
+}
+
+nav {
+  text-align: left;
+  padding: 1.25rem 4rem;
+  position: relative;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+.icono {
+  width: 2rem;
+}
+
+.icono svg {
+  fill: #ffffff;
+}
+
+footer i {
+  margin: 0 0.25em 0.5em 0.23em;
+}
+
+/* Simposio VeganDB */
+
+.first-titulo {
+  color: #000f08;
+  text-align: left;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  text-align: left;
+
+}
+
+.container img {
+width: 100%;
+background-repeat: no-repeat;
+}
+
+a {
+  text-decoration: none;
+  color: #000f08;
+}
